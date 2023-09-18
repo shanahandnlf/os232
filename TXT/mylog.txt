@@ -24,4 +24,4 @@ ZCZC W02 20 L43 TXT/myrank.txt related, including peer review.
 ZCZC W02 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 30 L07 Demo related
 ZCZC W02 20 L03 GitHub related
-ZCZC W02 30 L29 Buying a new flashdisk for storing backups
+ZCZC W02 10 L29 Buying a new flashdisk for storing backups
