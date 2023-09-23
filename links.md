@@ -13,5 +13,7 @@ This Tutorial will Show The Basics of Bash Scripting, Allowing Beginners to Mast
 * [Basic Overview of SSH Keys](https://www.ssh.com/academy/ssh-keys) ---
 Explanation about SSH Keys and Their Function to The User
 * [Understanding the SSH Encryption and Connection Process](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process) --- A Guide that Explains the Underlying Encryption Techniquesthat SSH Uses and the Methods It Uses to Establish Secure Connections
+* [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) --- Simple Tutorial on How to Compile Programs with Makefile. Examples are Also Included in This Tutorial
+* [How to Print String in C](https://www.scaler.com/topics/how-to-print-string-in-c/) --- A Full Guide on How to Print a String in C in a Lot Of Ways With Examples
 <br>
 <hr>
