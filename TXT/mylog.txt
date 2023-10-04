@@ -35,3 +35,11 @@ ZCZC W03 30 L43 TXT/myrank.txt related, including peer review.
 ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 30 L07 Demo related
 ZCZC W03 20 L03 GitHub related
+ZCZC W04 30 L01 SCELE related
+ZCZC W04 200 L02 Offline Class
+ZCZC W04 200 L14 Assignment #04
+ZCZC W04 30 L41 TXT/mylog.txt related
+ZCZC W04 30 L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 100 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L07 Demo related
+ZCZC W04 30 L03 GitHub related
