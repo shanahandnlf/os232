@@ -42,4 +42,5 @@ ZCZC W04 30 L41 TXT/mylog.txt related
 ZCZC W04 30 L43 TXT/myrank.txt related, including peer review.
 ZCZC W04 100 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 30 L07 Demo related
-ZCZC W04 30 L03 GitHub related
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 15 L62 Backing up Debian Guest
