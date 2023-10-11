@@ -16,5 +16,7 @@ Explanation about SSH Keys and Their Function to The User
 * [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) --- Simple Tutorial on How to Compile Programs with Makefile. Examples are Also Included in This Tutorial
 * [How to Print String in C](https://www.scaler.com/topics/how-to-print-string-in-c/) --- A Full Guide on How to Print a String in C in a Lot Of Ways With Examples
 * [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- All about Virtual Memory in Operating Systems
+* [Memory Management in Operating System](https://www.scaler.com/topics/memory-management-in-operating-system/) --- All about Memory Management Techniques in OS
+* [What is the Linux kernel?](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel) --- Explanation about Linux Kernel and its Functions
 <br>
 <hr>
