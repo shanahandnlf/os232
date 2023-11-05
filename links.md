@@ -18,5 +18,7 @@ Explanation about SSH Keys and Their Function to The User
 * [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- All about Virtual Memory in Operating Systems
 * [Memory Management in Operating System](https://www.scaler.com/topics/memory-management-in-operating-system/) --- All about Memory Management Techniques in OS
 * [What is the Linux kernel?](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel) --- Explanation about Linux Kernel and its Functions
+* [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/) --- Brief Explanation about the difference between Concurrency and Paralellism 
+* [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/?ref=lbp) --- Explanation about Threads in OS
 <br>
 <hr>
