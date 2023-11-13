@@ -20,5 +20,7 @@ Explanation about SSH Keys and Their Function to The User
 * [What is the Linux kernel?](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel) --- Explanation about Linux Kernel and its Functions
 * [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/) --- Brief Explanation about the difference between Concurrency and Paralellism 
 * [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/?ref=lbp) --- Explanation about Threads in OS
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) --- Explanation about Deadlock in OS
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- All About Process Synchronization in OS
 <br>
 <hr>
