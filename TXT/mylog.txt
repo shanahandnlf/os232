@@ -78,3 +78,15 @@ ZCZC W07 20 L03 GitHub related
 ZCZC W07 15 L62 Backing up Debian Guest
 ZCZC W07 20 L22 Linux CLI including tar, etc.
 ZCZC W07 40 L25 Trying out C-language
+ZCZC W08 30 L01 SCELE related
+ZCZC W08 100 L02 Offline Class
+ZCZC W08 120 L05 Quiz related including studying
+ZCZC W08 200 L18 Assignment #08
+ZCZC W08 20 L41 TXT/mylog.txt related
+ZCZC W08 30 L43 TXT/myrank.txt related, including peer review.
+ZCZC W08 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 30 L07 Demo related
+ZCZC W08 20 L03 GitHub related
+ZCZC W08 15 L62 Backing up Debian Guest
+ZCZC W08 20 L22 Linux CLI including tar, etc.
+ZCZC W08 40 L25 Trying out C-language

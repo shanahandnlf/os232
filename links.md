@@ -22,5 +22,7 @@ Explanation about SSH Keys and Their Function to The User
 * [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/?ref=lbp) --- Explanation about Threads in OS
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) --- Explanation about Deadlock in OS
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- All About Process Synchronization in OS
+* [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) --- Explanation about CPU Scheduling in OS
+* [Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/?ref=lbp) --- Explanation about Thread Scheduling in OS
 <br>
 <hr>
